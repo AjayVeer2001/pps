@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    float b = 1.10;
+    char c = H;
+
+   printf("%d",a);
+   printf("%f",b);
+   printf("%c",c);
+
+     return 0;
+}
