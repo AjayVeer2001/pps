@@ -5,7 +5,7 @@ int main()
  //using puts statements
     puts("Name - Ajayveer Singh Bansal");
     puts("Branch - Electircal Engneering");
-    puts("Class Roll No. - 2016001");
+    puts("Roll No. - 2016001");
     puts("Home Town - Ludhiana");
    
 //using printf statements
